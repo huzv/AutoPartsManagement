@@ -18,7 +18,7 @@ public class App extends Application {
     private static final String DB_URL =
         "jdbc:mysql://localhost:3306/auto_partsdb";
     private static final String USER = "root";
-    private static final String PASS = "ayyskillz12";
+    private static final String PASS = "password";
 
     private final ObservableList<String> tableNames = FXCollections.observableArrayList();
 
